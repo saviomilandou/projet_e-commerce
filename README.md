@@ -1,19 +1,19 @@
-# MERN AMAZONA
+# projet e_commerce
 
-![amazona](/frontend/public/images/amazona.jpg)
+![e_commerce](/frontend/public/images/e_commerce.jpg)
 
 # React Tutorial - Build ECommerce in 6 Hours [2022]
 
 # Deploy On Hostiger 1 2 3
 
-Welcome to my React and Node tutorial to build a fully-functional e-commerce website exactly like amazon. Open your code editor and follow me for the next hours to build an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
+Welcome to my React and Node tutorial to build a fully-functional e-commerce website exactly like ecommere. Open your code editor and follow me for the next hours to build an e-commerce website using projet stack (MongoDB, ExpressJS, React and Node.JS).
 
 Watch it on Youtube:
 [https://www.youtube.com/watch?v=CDtPMR5y0QU](https://www.youtube.com/watch?v=CDtPMR5y0QU)
 
 ## Demo Website
 
-- 👉 Heroku : [https://mern-amazona-app.herokuapp.com](https://mern-amazona-app.herokuapp.com)
+- 👉 Heroku : [https://projet-e_commerce-app.herokuapp.com](https://projet-e_commerce-app.herokuapp.com)
 
 ## You Will Learn
 
@@ -30,8 +30,8 @@ Watch it on Youtube:
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/mern-amazona.git
-$ cd mern-amazona
+$ git clone git@github.com:basir/projet-e_commerce.git
+$ cd projet-e_commerce
 ```
 
 ### 2. Create .env File
@@ -42,7 +42,7 @@ $ cd mern-amazona
 
 - Local MongoDB
   - Install it from [here](https://www.mongodb.com/try/download/community)
-  - In .env file update MONGODB_URI=mongodb://localhost/amazona
+  - In .env file update MONGODB_URI=mongodb://localhost/e_commerce
 - OR Atlas Cloud MongoDB
   - Create database at [https://cloud.mongodb.com](https://cloud.mongodb.com)
   - In .env file update MONGODB_URI=mongodb+srv://your-db-connection
